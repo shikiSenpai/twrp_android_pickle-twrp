@@ -20,6 +20,6 @@ $(call inherit-product, device/oneplus/ossi/device.mk)
 
 PRODUCT_DEVICE := ossi
 PRODUCT_NAME := twrp_ossi
-PRODUCT_BRAND := OnePlus
+PRODUCT_BRAND := oneplus
 PRODUCT_MODEL := ossi
-PRODUCT_MANUFACTURER := OnePlus
+PRODUCT_MANUFACTURER := oneplus
